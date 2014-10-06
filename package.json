@@ -1,0 +1,17 @@
+{
+  "name": "tic-tac-toe",
+  "description": "",
+  "version": "1.0.0",
+  "repository": {
+    "url": "git://github.com/sethvincent/tic-tac-toe.git"
+  },
+  "main": "game.js",
+  "scripts": {
+    "test": "",
+    "start": "beefy game.js --live"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "beefy": "^2.1.1"
+  }
+}

@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+#game {
+  width: 330px;
+  margin: 20px auto 0px auto;
+}
+
+.note {
+  height: 20px;
+  font-size: 30px;
+  color: #ff9999;
+  margin-bottom: 25px;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  margin: 0px 5px 5px 0px;
+  background-color: #efefea;
+  float: left;
+  color: #686864;
+  font-size: 50px;
+  text-align: center;
+  display: block;
+  line-height: 100px;
+}
